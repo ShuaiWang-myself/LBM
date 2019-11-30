@@ -520,5 +520,3 @@ void outputdata(int n)
 		}
 	}
 }
-
-
